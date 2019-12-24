@@ -1,1 +1,10 @@
-{"post-grid-1":[{"name":"Example 1","source":"design_1"},{"name":"Example 2","source":"design_2"},{"name":"Example 3","source":"design_3"}]}
+{
+"post-grid-1":[{"name":"Default Design","source":"design_1"},{"name":"Example 2","source":"design_2"},{"name":"Example 3","source":"design_3"}],
+"post-grid-2":[{"name":"Default Design","source":"design_1"}],
+"post-grid-3":[{"name":"Default Design","source":"design_1"}],
+"post-grid-4":[{"name":"Default Design","source":"design_1"}],
+"post-list-1":[{"name":"Default Design","source":"design_1"}],
+"post-list-2":[{"name":"Default Design","source":"design_1"}],
+"post-list-3":[{"name":"Default Design","source":"design_1"}],
+"post-slider-1":[{"name":"Default Design","source":"design_1"}]
+}
